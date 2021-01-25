@@ -11,4 +11,4 @@ Send url requests in the format http://localhost:8080/TextSummarizerSystem/rest/
 You can add a summary length (number of sentence) if you want, at the end of the url e.g. http://localhost:8080/TextSummarizerSystem/rest/ts/Ottawa/15 --> 15 sentences
 
 
-![Sample page](https://github.com/muradberhanu/TextSummarizerSystem/Example_summarized_page.png?raw=true)
+![Sample page](https://github.com/muradberhanu/TextSummarizerSystem/blob/master/Example_summarized_page.png)
